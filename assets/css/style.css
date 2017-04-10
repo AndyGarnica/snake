@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  font-size: 400%;
+}
+
+#casita{
+  margin:auto;
+  width:500px; height:500px;
+  position:relative;
+  background:#1AE1BC;
+}
+
+#viborita{
+  border:0px;
+  position:absolute;
+  width:100px;
+  height:100px;
+  background:#73318F;
+  margin-left: 200px;
+  margin-top: 200px;
+}
